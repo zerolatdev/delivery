@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.turbo/
+.env
+.env.*
+!.env.example
+.expo/
+coverage/
+*.log
+.DS_Store
+
+# Documentación y archivos de Claude fuera de git (excepto CLAUDE.md)
+*.md
+!/CLAUDE.md
+docs/
+reports/
+research_notes/
+.claude/
+CLAUDE.local.md
+graphify-out/
